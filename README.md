@@ -9,6 +9,9 @@
   <a href="https://github.com/fulldemo13?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Stars" src="https://custom-icon-badges.demolab.com/github/stars/fulldemo13?color=dda0dd&style=for-the-badge&logo=star"/>
   </a>
+  <a href="https://fulldemo13.github.io/">
+    <img alt="website" title="Website" src="https://img.shields.io/badge/Website-fulldemo13.github.io-0a0a0a?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 </div>
@@ -39,15 +42,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fulldemo13&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fulldemo13&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fulldemo13&theme=tokyonight" alt="Top Languages by Repo"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fulldemo13&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fulldemo13&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fulldemo13&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
